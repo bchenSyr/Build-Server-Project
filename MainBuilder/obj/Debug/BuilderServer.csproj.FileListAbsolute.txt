@@ -1,0 +1,16 @@
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\bin\Debug\BuilderServer.exe.config
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\bin\Debug\BuilderServer.exe
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\bin\Debug\BuilderServer.pdb
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\bin\Debug\IService.dll
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\bin\Debug\PluggableCommService.exe
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\bin\Debug\TestUtilities.exe
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\bin\Debug\IService.pdb
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\bin\Debug\IService.dll.config
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\bin\Debug\PluggableCommService.pdb
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\bin\Debug\PluggableCommService.exe.config
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\bin\Debug\TestUtilities.pdb
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\bin\Debug\TestUtilities.exe.config
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\obj\Debug\BuilderServer.csprojResolveAssemblyReference.cache
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\obj\Debug\BuilderServer.csproj.CoreCompileInputs.cache
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\obj\Debug\BuilderServer.exe
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\obj\Debug\BuilderServer.pdb

@@ -1,0 +1,103 @@
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\bin\Debug\BuildServer.exe.config
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\bin\Debug\BuildServer.exe
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\bin\Debug\BuildServer.pdb
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\bin\Debug\IService.dll
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\bin\Debug\IService.pdb
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\bin\Debug\IService.dll.config
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\bin\Debug\PluggableCommService.pdb
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\bin\Debug\TestUtilities.pdb
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\obj\Debug\BuildServer.csprojResolveAssemblyReference.cache
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\obj\Debug\BuildServer.csproj.CoreCompileInputs.cache
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\obj\Debug\BuildServer.exe
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\obj\Debug\BuildServer.pdb
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\bin\Debug\CommService.dll
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\bin\Debug\PluggableCommService.dll
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\bin\Debug\TestUtilities.dll
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\bin\Debug\PluggableCommService.dll.config
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\bin\Debug\TestUtilities.dll.config
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\bin\Debug\CommService.pdb
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\BuilderServer\bin\Debug\CommService.dll.config
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuildServer\BuilderServer\bin\Debug\BuildServer.exe.config
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuildServer\BuilderServer\bin\Debug\BuildServer.exe
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuildServer\BuilderServer\bin\Debug\BuildServer.pdb
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuildServer\BuilderServer\bin\Debug\IMPCommService.dll
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuildServer\BuilderServer\bin\Debug\MPCommService.dll
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuildServer\BuilderServer\bin\Debug\Tool.dll
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuildServer\BuilderServer\bin\Debug\MPCommService.pdb
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuildServer\BuilderServer\bin\Debug\MPCommService.dll.config
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuildServer\BuilderServer\bin\Debug\MPCommService.exe.config
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuildServer\BuilderServer\bin\Debug\IMPCommService.pdb
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuildServer\BuilderServer\bin\Debug\IMPCommService.dll.config
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuildServer\BuilderServer\bin\Debug\Tool.pdb
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuildServer\BuilderServer\obj\Debug\BuildServer.csprojResolveAssemblyReference.cache
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuildServer\BuilderServer\obj\Debug\BuildServer.csproj.CoreCompileInputs.cache
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuildServer\BuilderServer\obj\Debug\BuildServer.exe
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuildServer\BuilderServer\obj\Debug\BuildServer.pdb
+C:\Users\BeierChen\Documents\681 study\Project 3\BuildServer\BuilderServer\bin\Debug\BuildServer.exe.config
+C:\Users\BeierChen\Documents\681 study\Project 3\BuildServer\BuilderServer\bin\Debug\BuildServer.exe
+C:\Users\BeierChen\Documents\681 study\Project 3\BuildServer\BuilderServer\bin\Debug\BuildServer.pdb
+C:\Users\BeierChen\Documents\681 study\Project 3\BuildServer\BuilderServer\bin\Debug\IMPCommService.dll
+C:\Users\BeierChen\Documents\681 study\Project 3\BuildServer\BuilderServer\bin\Debug\MPCommService.dll
+C:\Users\BeierChen\Documents\681 study\Project 3\BuildServer\BuilderServer\bin\Debug\Tool.dll
+C:\Users\BeierChen\Documents\681 study\Project 3\BuildServer\BuilderServer\bin\Debug\MPCommService.pdb
+C:\Users\BeierChen\Documents\681 study\Project 3\BuildServer\BuilderServer\bin\Debug\MPCommService.dll.config
+C:\Users\BeierChen\Documents\681 study\Project 3\BuildServer\BuilderServer\bin\Debug\MPCommService.exe.config
+C:\Users\BeierChen\Documents\681 study\Project 3\BuildServer\BuilderServer\bin\Debug\IMPCommService.pdb
+C:\Users\BeierChen\Documents\681 study\Project 3\BuildServer\BuilderServer\bin\Debug\IMPCommService.dll.config
+C:\Users\BeierChen\Documents\681 study\Project 3\BuildServer\BuilderServer\bin\Debug\Tool.pdb
+C:\Users\BeierChen\Documents\681 study\Project 3\BuildServer\BuilderServer\obj\Debug\BuildServer.csprojResolveAssemblyReference.cache
+C:\Users\BeierChen\Documents\681 study\Project 3\BuildServer\BuilderServer\obj\Debug\BuildServer.csproj.CoreCompileInputs.cache
+C:\Users\BeierChen\Documents\681 study\Project 3\BuildServer\BuilderServer\obj\Debug\BuildServer.exe
+C:\Users\BeierChen\Documents\681 study\Project 3\BuildServer\BuilderServer\obj\Debug\BuildServer.pdb
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\MainBuilder\bin\Debug\BuildServer.exe.config
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\MainBuilder\bin\Debug\BuildServer.exe
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\MainBuilder\bin\Debug\BuildServer.pdb
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\MainBuilder\bin\Debug\Environment.dll
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\MainBuilder\bin\Debug\FileMgr.dll
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\MainBuilder\bin\Debug\IMPCommService.dll
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\MainBuilder\bin\Debug\MPCommService.exe
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\MainBuilder\bin\Debug\TestRequestHandler.dll
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\MainBuilder\bin\Debug\Tool.dll
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\MainBuilder\bin\Debug\MPCommService.pdb
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\MainBuilder\bin\Debug\MPCommService.exe.config
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\MainBuilder\bin\Debug\Environment.pdb
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\MainBuilder\bin\Debug\Environment.dll.config
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\MainBuilder\bin\Debug\FileMgr.pdb
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\MainBuilder\bin\Debug\FileMgr.dll.config
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\MainBuilder\bin\Debug\FileMgr.exe.config
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\MainBuilder\bin\Debug\IMPCommService.pdb
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\MainBuilder\bin\Debug\IMPCommService.dll.config
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\MainBuilder\bin\Debug\TestRequestHandler.pdb
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\MainBuilder\bin\Debug\TestRequestHandler.dll.config
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\MainBuilder\bin\Debug\TestRequestHandler.exe.config
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\MainBuilder\bin\Debug\Tool.pdb
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\MainBuilder\obj\Debug\BuildServer.csprojResolveAssemblyReference.cache
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\MainBuilder\obj\Debug\BuildServer.csproj.CoreCompileInputs.cache
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\MainBuilder\obj\Debug\BuildServer.exe
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\MainBuilder\obj\Debug\BuildServer.pdb
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\MainBuilder\bin\Debug\BuildServer.exe.config
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\MainBuilder\bin\Debug\BuildServer.exe
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\MainBuilder\bin\Debug\BuildServer.pdb
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\MainBuilder\bin\Debug\Environment.dll
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\MainBuilder\bin\Debug\FileMgr.dll
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\MainBuilder\bin\Debug\IMPCommService.dll
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\MainBuilder\bin\Debug\MPCommService.exe
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\MainBuilder\bin\Debug\TestRequestHandler.dll
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\MainBuilder\bin\Debug\Tool.dll
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\MainBuilder\bin\Debug\MPCommService.pdb
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\MainBuilder\bin\Debug\MPCommService.exe.config
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\MainBuilder\bin\Debug\Environment.pdb
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\MainBuilder\bin\Debug\Environment.dll.config
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\MainBuilder\bin\Debug\FileMgr.pdb
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\MainBuilder\bin\Debug\FileMgr.dll.config
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\MainBuilder\bin\Debug\FileMgr.exe.config
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\MainBuilder\bin\Debug\IMPCommService.pdb
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\MainBuilder\bin\Debug\IMPCommService.dll.config
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\MainBuilder\bin\Debug\TestRequestHandler.pdb
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\MainBuilder\bin\Debug\TestRequestHandler.dll.config
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\MainBuilder\bin\Debug\TestRequestHandler.exe.config
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\MainBuilder\bin\Debug\Tool.pdb
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\MainBuilder\obj\Debug\BuildServer.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\MainBuilder\obj\Debug\BuildServer.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\MainBuilder\obj\Debug\BuildServer.exe
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\MainBuilder\obj\Debug\BuildServer.pdb

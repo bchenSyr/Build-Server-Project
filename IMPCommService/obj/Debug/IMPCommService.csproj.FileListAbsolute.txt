@@ -1,0 +1,49 @@
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\IMPCommService\obj\Debug\IMPCommService.csprojResolveAssemblyReference.cache
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\IMPCommService\obj\Debug\IMPCommService.csproj.CoreCompileInputs.cache
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\IMPCommService\bin\Debug\IMPCommService.dll.config
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\IMPCommService\bin\Debug\IMPCommService.dll
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\IMPCommService\bin\Debug\IMPCommService.pdb
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\IMPCommService\obj\Debug\IMPCommService.dll
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\IMPCommService\obj\Debug\IMPCommService.pdb
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuildServer\IMPCommService\bin\Debug\IMPCommService.dll.config
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuildServer\IMPCommService\bin\Debug\IMPCommService.dll
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuildServer\IMPCommService\bin\Debug\IMPCommService.pdb
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuildServer\IMPCommService\obj\Debug\IMPCommService.csproj.CoreCompileInputs.cache
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuildServer\IMPCommService\obj\Debug\IMPCommService.dll
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuildServer\IMPCommService\obj\Debug\IMPCommService.pdb
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuildServer\IMPCommService\obj\Debug\IMPCommService.csprojResolveAssemblyReference.cache
+C:\Users\BeierChen\Documents\681 study\Project 3\BuildServer\IMPCommService\bin\Debug\IMPCommService.dll.config
+C:\Users\BeierChen\Documents\681 study\Project 3\BuildServer\IMPCommService\bin\Debug\IMPCommService.dll
+C:\Users\BeierChen\Documents\681 study\Project 3\BuildServer\IMPCommService\bin\Debug\IMPCommService.pdb
+C:\Users\BeierChen\Documents\681 study\Project 3\BuildServer\IMPCommService\obj\Debug\IMPCommService.csproj.CoreCompileInputs.cache
+C:\Users\BeierChen\Documents\681 study\Project 3\BuildServer\IMPCommService\obj\Debug\IMPCommService.dll
+C:\Users\BeierChen\Documents\681 study\Project 3\BuildServer\IMPCommService\obj\Debug\IMPCommService.pdb
+C:\Users\BeierChen\Documents\681 study\Project 3\BuildServer\IMPCommService\obj\Debug\IMPCommService.csprojResolveAssemblyReference.cache
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3\IMPCommService\bin\Debug\IMPCommService.dll.config
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3\IMPCommService\bin\Debug\IMPCommService.dll
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3\IMPCommService\bin\Debug\IMPCommService.pdb
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3\IMPCommService\obj\Debug\IMPCommService.csproj.CoreCompileInputs.cache
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3\IMPCommService\obj\Debug\IMPCommService.dll
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3\IMPCommService\obj\Debug\IMPCommService.pdb
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3\IMPCommService\obj\Debug\IMPCommService.csprojResolveAssemblyReference.cache
+C:\Users\BeierChen\Documents\681 study\Project 4\Project3\IMPCommService\bin\Debug\IMPCommService.dll.config
+C:\Users\BeierChen\Documents\681 study\Project 4\Project3\IMPCommService\bin\Debug\IMPCommService.dll
+C:\Users\BeierChen\Documents\681 study\Project 4\Project3\IMPCommService\bin\Debug\IMPCommService.pdb
+C:\Users\BeierChen\Documents\681 study\Project 4\Project3\IMPCommService\obj\Debug\IMPCommService.csprojResolveAssemblyReference.cache
+C:\Users\BeierChen\Documents\681 study\Project 4\Project3\IMPCommService\obj\Debug\IMPCommService.csproj.CoreCompileInputs.cache
+C:\Users\BeierChen\Documents\681 study\Project 4\Project3\IMPCommService\obj\Debug\IMPCommService.dll
+C:\Users\BeierChen\Documents\681 study\Project 4\Project3\IMPCommService\obj\Debug\IMPCommService.pdb
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\IMPCommService\bin\Debug\IMPCommService.dll.config
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\IMPCommService\bin\Debug\IMPCommService.dll
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\IMPCommService\bin\Debug\IMPCommService.pdb
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\IMPCommService\obj\Debug\IMPCommService.csprojResolveAssemblyReference.cache
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\IMPCommService\obj\Debug\IMPCommService.csproj.CoreCompileInputs.cache
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\IMPCommService\obj\Debug\IMPCommService.dll
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\IMPCommService\obj\Debug\IMPCommService.pdb
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\IMPCommService\bin\Debug\IMPCommService.dll.config
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\IMPCommService\bin\Debug\IMPCommService.dll
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\IMPCommService\bin\Debug\IMPCommService.pdb
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\IMPCommService\obj\Debug\IMPCommService.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\IMPCommService\obj\Debug\IMPCommService.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\IMPCommService\obj\Debug\IMPCommService.dll
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\IMPCommService\obj\Debug\IMPCommService.pdb
