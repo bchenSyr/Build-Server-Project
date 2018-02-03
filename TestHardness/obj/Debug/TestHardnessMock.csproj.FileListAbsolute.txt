@@ -1,0 +1,9 @@
+C:\Users\BeierChen\Documents\681 study\681_Proj2\Project2-2017-10-6\TestHardnessMock\bin\Debug\TestHardnessMock.dll
+C:\Users\BeierChen\Documents\681 study\681_Proj2\Project2-2017-10-6\TestHardnessMock\bin\Debug\TestHardnessMock.pdb
+C:\Users\BeierChen\Documents\681 study\681_Proj2\Project2-2017-10-6\TestHardnessMock\bin\Debug\DllLoader.dll
+C:\Users\BeierChen\Documents\681 study\681_Proj2\Project2-2017-10-6\TestHardnessMock\bin\Debug\DllLoader.pdb
+C:\Users\BeierChen\Documents\681 study\681_Proj2\Project2-2017-10-6\TestHardnessMock\bin\Debug\DllLoader.dll.config
+C:\Users\BeierChen\Documents\681 study\681_Proj2\Project2-2017-10-6\TestHardnessMock\obj\Debug\TestHardnessMock.csprojResolveAssemblyReference.cache
+C:\Users\BeierChen\Documents\681 study\681_Proj2\Project2-2017-10-6\TestHardnessMock\obj\Debug\TestHardnessMock.csproj.CoreCompileInputs.cache
+C:\Users\BeierChen\Documents\681 study\681_Proj2\Project2-2017-10-6\TestHardnessMock\obj\Debug\TestHardnessMock.dll
+C:\Users\BeierChen\Documents\681 study\681_Proj2\Project2-2017-10-6\TestHardnessMock\obj\Debug\TestHardnessMock.pdb

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5F685C30-9055-4355-AC46-19952E84F715}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TestHardness</RootNamespace>
+    <AssemblyName>TestHardness</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;TEST_TESTHARDNESSMOCK</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="TestHardness.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CommService\MPCommService.csproj">
+      <Project>{c279b8e8-ffcd-439f-b887-444848ffeffa}</Project>
+      <Name>MPCommService</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DllLoader\DllLoader.csproj">
+      <Project>{7be5daa3-914e-43e5-a88f-52e45fd079d8}</Project>
+      <Name>DllLoader</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Environment\Environment.csproj">
+      <Project>{eff54c57-d1db-4afe-b011-85225dc9ec8f}</Project>
+      <Name>Environment</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\IMPCommService\IMPCommService.csproj">
+      <Project>{9b5c6c84-4997-4032-89ff-c3f56bb2d8a9}</Project>
+      <Name>IMPCommService</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TestRequestHandler\XMLHandler.csproj">
+      <Project>{a71f8643-32ac-47c8-b1eb-a293a9e485a5}</Project>
+      <Name>XMLHandler</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Tool\PrintTool.csproj">
+      <Project>{9ba5424e-cdbd-4ae5-8f78-d258429ab363}</Project>
+      <Name>PrintTool</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
