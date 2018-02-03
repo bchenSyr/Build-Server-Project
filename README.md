@@ -1,2 +1,7 @@
 # Build-Server-Project
-course project of Software Modeling &amp; Analysis
+Course project of Software Modeling &amp; Analysis
+
+# How to run
+1. Clone the project or download BuildServer.zip
+2. Run Visual Studio Delevopment Command Line as administrator, input "compile", after compilation inout "run"
+3. Or Run Visual Studio 2017 as administrator, open Project4.sln, build and run the solution
