@@ -1,0 +1,13 @@
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\Environment\bin\Debug\Environment.dll.config
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\Environment\bin\Debug\Environment.dll
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\Environment\bin\Debug\Environment.pdb
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\Environment\obj\Debug\Environment.csproj.CoreCompileInputs.cache
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\Environment\obj\Debug\Environment.dll
+C:\Users\BeierChen\Documents\681 study\Project 4\Project4\Environment\obj\Debug\Environment.pdb
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\Environment\bin\Debug\Environment.dll.config
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\Environment\bin\Debug\Environment.dll
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\Environment\bin\Debug\Environment.pdb
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\Environment\obj\Debug\Environment.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\Environment\obj\Debug\Environment.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\Environment\obj\Debug\Environment.dll
+\\Mac\Home\Documents\2017 Fall Courses\681 Software Modeling & Analysis\Project 4\Win-Project4(final)\Project 4\Project4\Environment\obj\Debug\Environment.pdb
