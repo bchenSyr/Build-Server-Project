@@ -1,0 +1,109 @@
+﻿<!--/////////////////////////////////////////////////////////////////////
+// MainWindow.xaml - main window for Client GuI
+// Author: Beier Chen, bchen22@syr.edu
+// Application: Project #4, CSE 681 Fall2017                                  
+// Environment: Windows 10 Education, MacBook   
+/////////////////////////////////////////////////////////////////////
+/*
+ * Package Operations:
+ * ===================
+ * Main window for Client GuI
+ * 
+ * Maintenance History:
+ * ver 1.0 : Dec 6 2017
+ * - first release
+ * 
+ */-->
+    
+    <Window x:Class="ClientGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClientGUI"
+        mc:Ignorable="d"
+        Title="Client GUI" Height="600" Width="510"
+        Loaded="Window_Loaded">
+
+    <Grid Margin="5,0,0,0">
+        <TabControl HorizontalAlignment="Right" Margin="0,0,0,0" Width="500">
+            <!--<Make Build Request Tab>-->
+            <TabItem Header="Make Build Request">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="126*"/>
+                        <RowDefinition Height="132*"/>
+                        <RowDefinition Height="137*"/>
+                        <RowDefinition Height="150*"/>
+                    </Grid.RowDefinitions>
+
+                    <!--<Row 0 & 1>-->
+                    <Border BorderBrush="LightBlue" BorderThickness="4" Padding="5,0,0,0" Grid.RowSpan="2" Margin="0,0,0,0">
+                        <StackPanel Grid.Row="0" Orientation="Vertical" Margin="0,0,0,0">
+                            <!--<Row 0: Test Driver List>-->
+                            <StackPanel Grid.Row="0" Orientation="Horizontal">
+                                <StackPanel Orientation="Vertical" Margin="5,0,20,5">
+                                    <Label x:Name="TestDriverListLabel" Content="Test Drivers List" FontSize  ="13" FontWeight="bold" Height="26" />
+                                    <Label x:Name="TestDriverDir"  FontSize  ="10" Content="StorageOfRepo/TestDriver" Margin="0,-8,30,0" Width="186"/>
+                                    <ListBox x:Name="TestDriverList" FontSize  ="12" Foreground="DarkCyan" BorderThickness="3" Height="70" Width="212" SelectionChanged="TestDriverList_SelectionChanged" MouseDoubleClick="TestDriverList_MouseDoubleClick" />
+                                </StackPanel>
+                                <StackPanel Orientation="Vertical" Margin="10,50,5,5">
+                                    <Label x:Name="SelectedTestDriverLabel" Content="Selected Test Drivers" FontSize  ="13" FontWeight="bold" />
+                                    <TextBox x:Name="SelectedTestDriver"  IsReadOnly="True" TextWrapping="Wrap"  Foreground="Red" FontSize="12" Background="White" BorderThickness="2" Margin="0,0,0,0" Width="177"/>
+                                </StackPanel>
+                            </StackPanel>
+
+                            <!--<Row Sliptter>-->
+                            <Line X1="10" Y1="10" X2="440" Y2="10" Height="5" Stroke="LightBlue"  StrokeDashArray="0.5" StrokeThickness="15" />
+
+                            <!--<Row 1: Tested Files List & Package Button>-->
+                            <StackPanel Grid.Row="1" Orientation="Horizontal">
+                                <StackPanel Orientation="Vertical" Margin="5,0,20,5">
+                                    <Label x:Name="TestedListLabel" Content="Tested Files List" FontSize  ="13" FontWeight="bold" Margin="5,0,0,0"/>
+                                    <TextBox x:Name="TestedDir" TextWrapping="Wrap" Text="  From: StorageOfRepo/Test/..."  Height="14"  Margin="2,-5,-17,0" FontSize="9" Background="White" BorderThickness="0"/>
+                                    <ListBox x:Name="TestedList" FontSize  ="12" Foreground="DarkCyan" BorderThickness="3" Height="70" Width="212" Margin="0,0,0,0" SelectionChanged="TestedList_SelectionChanged"/>
+                                </StackPanel>
+                                <StackPanel Orientation="Vertical" Margin="10,5,5,5">
+                                    <Label x:Name="SelectedTestedLabel" Content="Selected Tested Files" FontSize  ="13" FontWeight="bold" />
+                                    <ListBox x:Name="SelectedTestedList"  FontSize  ="10" Foreground="Red" BorderThickness="3" Height="51" Width="177" />
+                                    <Button x:Name="PackageToTestButton" Content="Package into Test Library" Margin="0,10,0,0" FontSize  =" 13" FontWeight="bold" Height="25" Width="177" Click="PackageToTestButton_Click"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </StackPanel>
+                    </Border>
+
+                    <!--<Row 2: Packaged Test Requests List & Make Build Request Button>-->
+                    <StackPanel Grid.Row="2" Orientation="Horizontal" Margin="0,0,0,0" >
+                        <StackPanel  Grid.Row="2" Orientation="Vertical" Margin="15,0,20,0">
+                            <Label x:Name="PackagedTestListLabel" Content="Packaged Tests List" FontSize  ="13" FontWeight="bold" Height="28" />
+                            <ListBox x:Name="PackagedTestList" FontSize  ="12" Foreground="Red" BorderThickness="3" Height="101" Width="212" />
+                        </StackPanel>
+                        <StackPanel Orientation="Vertical" Margin="10,40,5,10" Width="177">
+                            <Button x:Name="MakeBuildRequestButton" Content="Make Build Request" Margin="0,10,0,0" FontSize  =" 13" FontWeight="bold" Click="MakeBuildRequestButton_Click"/>
+                        </StackPanel>
+                    </StackPanel>
+
+                    <GridSplitter Grid.Row="3" HorizontalAlignment="Stretch" Background="LightBlue" Margin="2,0,2,193"/>
+
+                    <!--<Row 3: Build Request Preview & Build Request List & Send Button>-->
+                    <StackPanel Grid.Row="3" Orientation="Horizontal" Margin="0,0,0,0" >
+                        <StackPanel Orientation="Vertical" Margin="15,0,20,0" Width="212">
+                            <Label x:Name="BuildReqLabel" Content="Build Reqests List" FontSize  ="13" FontWeight="bold" />
+                            <Label x:Name="BuildReqDir"  FontSize  ="10" Content="StorageOfRepo/BuildRequests" Margin="0,-8,30,0" Width="186"/>
+                            <ListBox x:Name="BuildReqList" FontSize  ="12" Foreground="DarkCyan" BorderThickness="3" Height="96" Width="212" MouseDoubleClick="BuildReqList_MouseDoubleClick" SelectionChanged="BuildReqList_SelectionChanged" />
+
+                        </StackPanel>
+
+                        <StackPanel Orientation="Vertical" Margin="10,40,5,10" Width="177">
+                            <Label x:Name="SelectedBuildReqLabel" Content="Selected Build Request" FontSize  ="13" FontWeight="bold" />
+                            <TextBox x:Name="SelectedBuildReq"  IsReadOnly="True" TextWrapping="Wrap"  Foreground="Red" FontSize="12" Background="White" BorderThickness="2" Margin="0,0,0,0" Width="177"/>
+                            <Button x:Name="SendBuildRequestButton" Content="Send Build Request" Margin="0,10,0,0" FontSize  =" 13" FontWeight="bold" Click="SendBuildRequestButton_Click"/>
+                        </StackPanel>
+                    </StackPanel>
+                </Grid>
+            </TabItem>
+
+        </TabControl>
+
+    </Grid>
+</Window>

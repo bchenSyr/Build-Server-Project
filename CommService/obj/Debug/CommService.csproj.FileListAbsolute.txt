@@ -1,0 +1,6 @@
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\CommService\obj\Debug\CommService.csproj.CoreCompileInputs.cache
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\CommService\bin\Debug\CommService.dll.config
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\CommService\bin\Debug\CommService.dll
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\CommService\bin\Debug\CommService.pdb
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\CommService\obj\Debug\CommService.dll
+C:\Users\BeierChen\Documents\681 study\Project 3\Project3-2\BuilderServer\CommService\obj\Debug\CommService.pdb
